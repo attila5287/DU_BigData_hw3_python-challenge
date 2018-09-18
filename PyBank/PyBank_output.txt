@@ -1,0 +1,8 @@
+-----ELECTION RESULTS-----
+  < Financials of PyBank for Jan-2010 to Feb-2017>
+----------------------------------------------------
+Total Months: 	86
+Total Revenues: 	$ 38,382,578
+Avereage Revenue Change: 	$ -2,315
+Greatest Increase in Revenue:	$ 1,926,159	Feb-2012
+Greatest Decrease in Revenue:	$ -2,196,167	Sep-2013
